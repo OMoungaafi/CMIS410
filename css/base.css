@@ -4,13 +4,12 @@
    Sample start files for final project - for educational purposes
    Filename: base.css
    
-   Name:
-   Term: 
+   Name:Ofaloto M
+   Term: Fall 2024
 
    This file contains the base styles used by all pages in the website
 
 */
-
 
 /* =============================================
 	HTML5 structural elements
@@ -34,7 +33,7 @@ html {
 }
 html, button, input, select, textarea {
 	font-family: serif;
-	color: #222;
+	color: #473c38;
 }
 body {
 	margin: 0;
@@ -49,13 +48,13 @@ body {
 */
 
 a {
-	color: #00e;
+	color: #473c38;
 }
 a:visited {
-	color: #551a8b;
+	color: #735e59;
 }
 a:hover {
-	color: #06e;
+	color: #878a8b;
 }
 a:focus {
 	outline: thin dotted;

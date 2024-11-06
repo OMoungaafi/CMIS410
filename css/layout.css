@@ -4,8 +4,8 @@
    Sample start files for final project - for educational purposes
    Filename: base.css
    
-   Name:
-   Term: 
+   Name: Ofaloto M
+   Term: Fall 2024
 
    This file contains the base styles used by all pages in the website
 
@@ -62,7 +62,7 @@ nav ul li a:visited {
 	color: #222;
 }
 nav ul li a:hover {
-	background-color: #b34a48;
+	background-color: #ffffff;
 	color: white;
 }
 nav ul li a:focus {
@@ -112,9 +112,9 @@ dd {
 
 footer {
 	text-align: center;
-	font-size: 0.6em;
+	font-size: 0.5em;
 	margin-top: 4%;
-	border-top: 3px outset #cf7b79;
+	border-top: 3px outset #735e59;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	clear: both;
 	padding-bottom: 20px;
@@ -276,7 +276,7 @@ html, body {
 }
 
 html {
-	background-color: #953e3c;
+	background-color: #544541;
 	margin: 0px auto;
 }
 body {
@@ -288,9 +288,6 @@ body {
 	clear: none;
 	float: none;
 	background-color: white;
-	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
 }
 
 article div h1 {
