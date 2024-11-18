@@ -63,7 +63,7 @@ nav ul li a:visited {
 }
 nav ul li a:hover {
 	background-color: #ffffff;
-	color: white;
+	color: gray;
 }
 nav ul li a:focus {
 	outline: thin dotted;
